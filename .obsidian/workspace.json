@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2025-01-11 테스트합니다..md",
+                "file": "_posts/test page.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-11 테스트합니다."
+              "title": "test page"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2025-01-11 테스트합니다..md",
+                "file": "_posts/test page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2025-01-11 테스트합니다.의 백링크"
+              "title": "test page의 백링크"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2025-01-11 테스트합니다..md",
+                "file": "_posts/test page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2025-01-11 테스트합니다.의 나가는 링크"
+              "title": "test page의 나가는 링크"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2025-01-11 테스트합니다..md"
+                "file": "_posts/test page.md"
               },
               "icon": "lucide-list",
-              "title": "2025-01-11 테스트합니다. 개요"
+              "title": "test page 개요"
             }
           }
         ]
@@ -164,9 +164,10 @@
   },
   "active": "4f00582ec3bea142",
   "lastOpenFiles": [
+    "_posts/2025-01-11 테스트합니다..md",
+    "_posts/2025-01-11 테스트합니다.md",
     "_posts/test page.md",
     "_posts/2025-01-11-welcome-to-jekyll.md",
-    "_posts/2025-01-11 테스트합니다..md",
     "_site/jekyll/update/2025/01/11/welcome-to-jekyll.html",
     "_site/jekyll/update/2025/01/11",
     "_site/jekyll/update/2025/01",
