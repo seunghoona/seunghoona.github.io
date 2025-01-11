@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e15be29a428e5e6e",
+        "id": "26faf198570f2230",
         "type": "tabs",
         "children": [
           {
-            "id": "4f00582ec3bea142",
+            "id": "317cdee0eb3e785e",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/community-plugins.json",
-                "bFile": ".obsidian/community-plugins.json",
-                "aRef": ""
+                "file": "_posts/ai/2025-01-11-{{title}}-{{categories}}.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: community-plugins.json"
+              "icon": "lucide-file",
+              "title": "2025-01-11-{{title}}-{{categories}}"
             }
           }
         ]
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 330.5
   },
   "right": {
     "id": "5d2b47d83545e448",
@@ -93,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_posts/ai/2025-01-11-{{title}}-{{categories}}.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "백링크"
+              "title": "2025-01-11--의 백링크"
             }
           },
           {
@@ -111,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_posts/ai/2025-01-11-{{title}}-{{categories}}.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "나가는 링크"
+              "title": "2025-01-11--의 나가는 링크"
             }
           },
           {
@@ -136,9 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "_posts/ai/2025-01-11-{{title}}-{{categories}}.md"
+              },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "2025-01-11-- 개요"
             }
           },
           {
@@ -169,24 +173,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4f00582ec3bea142",
+  "active": "9307792250679aea",
   "lastOpenFiles": [
-    "_posts/2025-01-11 테스트합니다.md",
-    "_posts/2025-01-11 테스트합니다.markdown",
-    "_ai",
+    "_posts/ai/무제 폴더",
+    "_posts/note",
+    "_posts/무제 폴더",
+    "_posts/ai/2025-01-11-{{title}}-{{categories}}.md",
+    "_posts/ai/2025-01-11-ai-sample.markdown",
+    "_posts/ai/2025-01-11-sample.markdown.sb-896c2749-ETC9LR",
+    "_posts/ai/2025-01-11-welcome-to-jekyll.md",
+    "_site/ai/index.html",
+    "_site/ai",
+    "_posts/2025-01-11-welcome-to-jekyll.md.sb-896c2749-YNj8d8",
+    "_posts/2025-01-11-welcome-to-jekyll.md",
+    "_site/jekyll/update/index.html",
+    "_site/jekyll/update/2025/index.html",
+    "_posts/ai/2025-01-11-welcome-to-jekyll 복사본.md",
+    "_posts/ai/2025-01-11-sample.markdown",
     "about.md",
     "index.md",
+    "_posts/2025-01-11-welcome-to-jekyll 복사본.md",
     "_site/assets/minima-social-icons.svg",
-    "index.ㅡㅇ.markdown",
-    "_config.yml.sb-896c2749-HmV7eD",
+    "_posts/2025-01-11 Test 복사본.md",
+    "_posts/2025-01-11 Test.md",
+    "_posts/2025-01-11 테스트합니다.md",
     "_posts/test page.md",
-    "_posts/2025-01-11 테스트합니다..md",
-    "_posts/2025-01-11-welcome-to-jekyll.md",
-    "_site/jekyll/update/2025/01/11/welcome-to-jekyll.html",
-    "_site/jekyll/update/2025/01/11",
-    "_site/jekyll/update/2025/01",
-    "_site/jekyll/update/2025",
-    "_site/jekyll/update",
-    "_site/assets/main.css.map"
+    "_posts/2025-01-11 테스트합니다..md"
   ]
 }
