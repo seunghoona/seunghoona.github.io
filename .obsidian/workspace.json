@@ -11,14 +11,14 @@
             "id": "4f00582ec3bea142",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "_posts/2025-01-11 테스트합니다.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/community-plugins.json",
+                "bFile": ".obsidian/community-plugins.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "2025-01-11 테스트합니다"
+              "icon": "diff",
+              "title": "Diff: community-plugins.json"
             }
           }
         ]
@@ -93,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2025-01-11 테스트합니다.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2025-01-11 테스트합니다의 백링크"
+              "title": "백링크"
             }
           },
           {
@@ -112,12 +111,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2025-01-11 테스트합니다.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2025-01-11 테스트합니다의 나가는 링크"
+              "title": "나가는 링크"
             }
           },
           {
@@ -138,19 +136,27 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_posts/2025-01-11 테스트합니다.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "2025-01-11 테스트합니다 개요"
+              "title": "개요"
+            }
+          },
+          {
+            "id": "31a50f45fa91d1cc",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,27 +165,28 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9307792250679aea",
+  "active": "4f00582ec3bea142",
   "lastOpenFiles": [
+    "_posts/2025-01-11 테스트합니다.md",
+    "_posts/2025-01-11 테스트합니다.markdown",
+    "_ai",
     "about.md",
     "index.md",
+    "_site/assets/minima-social-icons.svg",
     "index.ㅡㅇ.markdown",
     "_config.yml.sb-896c2749-HmV7eD",
     "_posts/test page.md",
     "_posts/2025-01-11 테스트합니다..md",
-    "_posts/2025-01-11 테스트합니다.md",
     "_posts/2025-01-11-welcome-to-jekyll.md",
     "_site/jekyll/update/2025/01/11/welcome-to-jekyll.html",
     "_site/jekyll/update/2025/01/11",
     "_site/jekyll/update/2025/01",
     "_site/jekyll/update/2025",
     "_site/jekyll/update",
-    "_site/assets/minima-social-icons.svg",
-    "_site/assets/main.css.map",
-    "_site/assets/main.css",
-    "_site/about/index.html"
+    "_site/assets/main.css.map"
   ]
 }
